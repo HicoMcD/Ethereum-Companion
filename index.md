@@ -65,6 +65,7 @@ Consesys Basics: https://courses.consensys.net/courses/bootcamp-basic-training
 Interesting to read as Buterin goes through the internal thought process of creating a fee based ledger that is Turing complete, i.e a state machine. Note the simplicity of the programmatic loop the devises to validate his concept
 - [Ethereum White Paper](https://ethereum.org/en/whitepaper/)
 - [Ethereum Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf)
+- [Ethereum](https://ethereum.org/)
 - Accounts,
 - Transactions,
 - Gas and Fees,
@@ -98,14 +99,17 @@ Interesting to read as Buterin goes through the internal thought process of crea
 ## Development frameworks and environment
 - Introduction,
 - Development Workflow- low level,
-- Ganache CLI,
-- Truffle,
+- [Remix - Web Based Solidity IDE](https://remix.ethereum.org/),
+- [Truffle Suite - Suite of Tools for Blockchain Development](https://www.trufflesuite.com/),
+- [Ganache CLI - One Click Blockchain](https://github.com/trufflesuite/ganache-cli-archive),
+- [Ganache GUI - One Click Blockchain](https://www.trufflesuite.com/ganache),
 - Structure of a truffle project,
-- Ganache GUI.
 - Hardhat,
 - setting up HardHat guide,
 
 ## Solidity Fundamentals
+- [Solidity Language](https://soliditylang.org/),
+- [Solidity Documentation](https://docs.soliditylang.org/),
 - Data Types and Variables,
 - Functions,
 - Storage and Memory,
@@ -114,6 +118,9 @@ Interesting to read as Buterin goes through the internal thought process of crea
 - Smart Contract Application Binary Interface,
 - Events and Logs,
 - Factory Contracts,
+- [Solidity Fast Track Part 1](https://soliditydeveloper.com/solidity-fast-track),
+- [Solidity Fast Track Part 2](https://soliditydeveloper.com/solidity-fast-track-2),
+- [Solidity by Example](https://solidity-by-example.org/)
 
 ## Writing Smart Contracts
 - Introductory Smart Contracts,
